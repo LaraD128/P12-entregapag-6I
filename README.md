@@ -25,3 +25,6 @@ samples, guidance on mobile development, and a full API reference.
 - ## Capturas
 - ![image](https://github.com/LaraD128/P12-entregapag-6I/assets/143744146/d774f7a3-5fbf-4186-8e49-a31712f1b92c)
 - ![image](https://github.com/LaraD128/P12-entregapag-6I/assets/143744146/760bc808-6271-49d8-bd88-d0ada4e6943c)
+- ![image](https://github.com/LaraD128/P12-entregapag-6I/assets/143744146/a0566dc6-8f18-4e0b-a473-3a4872914c6c)
+- ![image](https://github.com/LaraD128/P12-entregapag-6I/assets/143744146/002047ae-7c79-4e58-bf56-3702b02c2278)
+
